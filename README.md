@@ -12,4 +12,4 @@
 
 **MENTOR NAME** :Neela Santhosh Kumar 
 
-**output** :https://github.com/aparnanelapolu/API-INTEGRATION-AND-DATA-VISUALIZATION 
+**output** :https://github.com/aparnanelapolu/AUTOMATED-REPORT-GENERATION 
